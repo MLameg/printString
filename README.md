@@ -1,0 +1,2 @@
+# printString
+Prints simple string
